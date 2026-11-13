@@ -1,0 +1,16 @@
+{
+  "name": "paisapilot",
+  "version": "1.0.0",
+  "description": "PaisaPilot — Your Money. Your Decisions. Your AI Financial Companion.",
+  "scripts": {
+    "setup": "npm --prefix server install && npx --prefix server prisma db push && npm --prefix server run seed && npm --prefix client install && npm --prefix client run build",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "build": "npm --prefix client run build",
+    "start": "node server/src/server.js",
+    "test": "node server/test-endpoints.js"
+  },
+  "author": "Shreya Singh",
+  "license": "MIT"
+}
