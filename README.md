@@ -15,7 +15,11 @@ Indian college students and young professionals face a unique financial dilemma 
 3. **Generic, Disconnected AI Tools**: Existing AI chatbots (like generic ChatGPT) hallucinate financial advice, give US-centric tips (e.g., 401k/Roth IRA), and have no connection to a student's actual bank or expense ledger.
 
 ---
+---
 
+## 📑 Hackathon Presentation
+
+[View PaisaPilot Hackathon Presentation (PDF)](https://github.com/ShreyaSingh2606/PaisaPilot/blob/main/PaisaPilot_Hackathon_Presentation.pdf)
 ## 💡 Proposed Solution: PaisaPilot
 
 **PaisaPilot** is a full-stack, AI-powered financial management web application tailored for the Indian collegiate ecosystem. It bridges the gap between daily transactional reality and intelligent financial decision-making:
